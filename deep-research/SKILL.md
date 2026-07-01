@@ -1,6 +1,6 @@
 ---
 name: deep-research
-description: Use when the user asks for a deep research pass, source discovery, literature scan, market scan, comparison, or cited dossier that needs more than a quick lookup. Runs an external research loop: query angles, discovery rounds, gap queries, source ranking, and synthesis.
+description: "Use when the user asks for a deep research pass, source discovery, literature scan, market scan, comparison, or cited dossier that needs more than a quick lookup. Runs an external research loop: query angles, discovery rounds, gap queries, source ranking, and synthesis."
 ---
 
 # Deep Research
