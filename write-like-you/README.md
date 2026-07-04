@@ -2,10 +2,10 @@
 
 AI is a good writer. It is a terrible *you*.
 
-Ask any model to write something and you get competent, clean, forgettable prose that
-sounds exactly like every other model. Em dashes everywhere. "In a world where." A tidy
-little lesson at the end. It reads like a brand, because it is the average of everything
-it was trained on, and the average of everyone sounds like no one.
+Ask any model to write something and you get competent, forgettable prose that sounds
+exactly like every other model. Em dashes everywhere. A tidy little lesson at the end. It
+reads like a brand, because it is the average of everything it was trained on, and the
+average of everyone sounds like no one.
 
 These two skills fix that. Not with a "make it sound human" slider. By grounding the
 model in the actual sentences you have already written.
@@ -13,8 +13,8 @@ model in the actual sentences you have already written.
 ## What's in here
 
 **`write-like-you`** ... a voice guide you fill in once, from your own real writing. Not
-adjectives about your voice ("witty", "authentic", "punchy"). Actual quotes. The model
-copies what you *did*, not what you claim you do.
+adjectives about your voice ("witty", "authentic"). Actual quotes. The model copies what
+you *did*, not what you claim you do.
 
 **`write-like-you-tune`** ... the part most voice guides skip. Every time you take an AI
 draft and rewrite it to sound like you, that edit is training data. This skill reads the
@@ -28,8 +28,8 @@ One writes. The other learns.
 
 I write a newsletter and I could not get AI to sound like me to save my life. Every draft
 was fine, and none of it was mine. The fix was not a better prompt. It was giving the
-model receipts... my real paragraphs, the phrases I would never use, the one punctuation
-mark that instantly outs a draft as fake.
+model receipts... the phrases I would never use, and the one punctuation mark that
+instantly outs a draft as fake.
 
 The moment I did that, drafts stopped sounding like a press release and started sounding
 like a text from me.
@@ -47,7 +47,7 @@ model at it.
 3. **Write with it.** Point your agent at it when drafting or editing anything... email,
    essays, posts, docs.
 4. **Teach it as you go.** When you rewrite an AI draft, hand the before and after to
-   `write-like-you-tune`. It proposes a general rule, shows you the exact edit, and changes
+   `write-like-you-tune`. It proposes a general rule with the exact edit, and changes
    nothing until you say yes. Do that a few times and the drafts need less fixing.
 
 ## The honest part

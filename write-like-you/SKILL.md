@@ -7,14 +7,13 @@ description: Use when drafting or editing anything in your own voice, or when ch
 
 ## Overview
 
-The single source of truth for how *you* write ... any writing, not one platform.
-Build it from your own real writing, never from abstract descriptors. A voice guide
-synthesized from adjectives
-("quirky", "self-aware", "punchy") reads like an AI's idea of you, not you. Everything
-below should be lifted from or built on sentences you actually wrote.
+The single source of truth for how *you* write. Any writing, not one platform. Build it
+from your own real writing, never from abstract descriptors. A voice guide synthesized
+from adjectives ("quirky", "self-aware") reads like an AI's idea of you, not you.
+Everything below should be lifted from or built on sentences you actually wrote.
 
 **Core principle:** [One or two sentences: who you are to your reader, and the single
-thing your writing does. Fill from your corpus ... e.g. "the honest translator of X",
+thing your writing does. Fill from your corpus, e.g. "the honest translator of X",
 "the friend who already made the mistake". State it plain.]
 
 ## How to build this (fill it in once)
@@ -33,7 +32,7 @@ gated, general edits to this file.
 
 ## When to use
 
-- Drafting anything in your voice ... email, an essay, a post, docs, a newsletter.
+- Drafting anything in your voice: email, an essay, a post, docs, a newsletter.
 - Editing a draft (yours or a tool's) toward your voice.
 - Running the banned-tells self-check before shipping.
 
@@ -42,21 +41,21 @@ gated, general edits to this file.
 Match the format to where it's going. Same voice, different shape. List your surfaces and
 the shape each takes, so a long-form piece never gets pasted whole into a short one.
 
-- **[Short-form, e.g. posts, messages, comments]** ... [its shape: length, register, what it's for.]
-- **[Long-form, e.g. essays, newsletters, articles]** ... [its shape.]
-- **[Professional, e.g. email, docs, proposals]** ... [its shape.]
+- **[Short-form, e.g. posts, messages, comments]**: [its shape: length, register, what it's for.]
+- **[Long-form, e.g. essays, newsletters, articles]**: [its shape.]
+- **[Professional, e.g. email, docs, proposals]**: [its shape.]
 
 ## Hard rules (non-negotiable)
 
 The fastest tells a draft isn't yours. Keep them short and absolute. Fill with your own;
 the examples below show the *kind* of rule, not the rules themselves:
 
-- **[A punctuation / formatting habit]** ... e.g. "never use em dashes; use `...` or a
-  short new sentence." Keep it only if it's genuinely yours.
-- **[A register rule]** ... e.g. "self-deprecation only when a real situation earns it,
+- **[A punctuation / formatting habit]**: e.g. "never use em dashes; break to a short new
+  sentence instead." Keep it only if it's genuinely yours.
+- **[A register rule]**: e.g. "self-deprecation only when a real situation earns it,
   never reflexive filler."
-- **[An evidence rule]** ... e.g. "show the real number / tool / bug, not an adjective."
-- **[A process rule]** ... e.g. "get topic approval before drafting."
+- **[An evidence rule]**: e.g. "show the real number or tool, not an adjective."
+- **[A process rule]**: e.g. "get topic approval before drafting."
 
 ## Your voice, in your own words (real exemplars)
 
@@ -69,7 +68,7 @@ more work than any rule, and a quote can't overfit.
 **2. [Move name]:**
 > [Real quote.]
 
-*(...keep going. When in doubt, add an exemplar instead of a rule.)*
+*(Keep going. When in doubt, add an exemplar instead of a rule.)*
 
 ## BANNED: corny AI tells (delete on sight)
 
@@ -85,12 +84,12 @@ add the ones specific to you.
 | **Vendor parallelism** ("Not just X. It's Y.") | Ad rhythm | Only if the fragment is genuinely how you talk |
 | **Manufactured quirk** (whimsy with no real situation behind it) | Quirk has to be earned | Only the odd thing that actually happened |
 | **Formulaic confession openers** ("Let me be honest…", "Confession:") | Performs vulnerability | A specific true admission that starts the story |
-| **Em dashes (—)** | Common AI tell; keep only if you truly use them | `...` or a short new sentence |
+| **Em dashes (—)** | Common AI tell; keep only if you truly use them | Break to a short new sentence |
 
 ## Self-check before shipping (run every draft)
 
 1. **AI-tell scan.** Grep the banned list above. Any hit is a rewrite.
-2. **Specifics present?** Real names / numbers / details, or vague claims?
+2. **Specifics present?** Real names and numbers, or vague claims?
 3. **Is the humor earned?** Every joke tied to something that actually happened (if humor
    is your thing)?
 4. **Read it aloud.** Does it sound like *you* talking, or like a brand? Polished and tidy
